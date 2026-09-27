@@ -1239,3 +1239,111 @@ Garo Helm
 Garo Head
 Hylian Hair Tie
 Hylian Hood
+Baggi Helm X
+Baggi Cap X
+Wroggi Hat X
+Wroggi Cap X
+Kut-Ku Helm Z
+Kut-Ku Cap Z
+Hypnocatrice Helm X
+Hypnocatrice Cap X
+Qurupeco Helm X
+Qurupeco Cap X
+Qurupeco Helm Z
+Qurupeco Cap Z
+Kecha Helm Z
+Kecha Cap Z
+Gypceros Helm Z
+Gypceros Cap Z
+Tetsucabra Helm Z
+Tetsucabra Cap Z
+Hermitaur Helm Z
+Hermitaur Cap Z
+Conga Helm Z
+Conga Cap Z
+Ludroth Helm Z
+Ludroth Cap Z
+Barroth Helm Z
+Barroth Cap Z
+Basarios Helm Z
+Basarios Cap Z
+Zamtrios Helm Z
+Zamtrios Cap Z
+Khezu Helm Z
+Khezu Cap Z
+Gigginox Helm X
+Gigginox Cap X
+Gigginox Helm Z
+Gigginox Cap Z
+Nerscylla Helm Z
+Nerscylla Cap Z
+Rath Heart Helm Z
+Rath Heart Cap Z
+Gobul Helm X
+Gobul Cap X
+Plesioth Helm Z
+Plesioth Cap Z
+Blango Helm Z
+Blango Cap Z
+Ceanataur Helm Z
+Ceanataur Cap Z
+Najarala Helm Z
+Najarala Cap Z
+Nargacuga Helm Z
+Nargacuga Cap Z
+Uragaan Helm Z
+Uragaan Cap Z
+Helios Helm Z
+Helios Cap Z
+Selene Helm Z
+Selene Cap Z
+Barioth Helm Z
+Barioth Cap Z
+Seltas Helm Z
+Seltas Cap Z
+Rath Soul Helm Z
+Rath Soul Cap Z
+Lagiacrus Helm Z
+Lagiacrus Cap Z
+Zinogre Helm Z
+Zinogre Cap Z
+Mono Helm X
+Mono Cap X
+Monodevil Helm
+Monodevil Cap
+Gravios Helm Z
+Gravios Cap Z
+Agnaktor Helm Z
+Agnaktor Cap Z
+Duramboros Helm Z
+Duramboros Cap Z
+Tigrex Helm Z
+Tigrex Cap Z
+Diablos Helm Z
+Diablos Cap Z
+Kirin Horn Z
+Kirin Crest Z
+Kujula Glare
+Kujula Snarl
+Lambent Casque
+Silhouette Casque
+Excello Helm Z
+Excello Cap Z
+Nether Helm
+Nether Cap
+Miralis Diadem
+Miralis Crown
+Rebellion Helm X
+Riot Cap X
+Rebellion Helm Z
+Riot Cap Z
+Gogma Helm
+Gogma Cap
+Grand Gloaming Helm
+Grand Dayspring Helm
+Grand Adamance Helm
+Grand Epoch Helm
+Grand Yamato Kabuto
+Grand Mutsu Jingasa
+Grand H. Hachigane
+Grand Amagi Jingasa
